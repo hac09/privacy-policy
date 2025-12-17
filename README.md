@@ -6,6 +6,8 @@ Halu Studio（以下「当方」）は、本アプリ「TravelLogger」（以下
 
 本アプリは、以下の情報を取得します。
 
+
+
 ### 1.1 位置情報
 - GPS位置情報（緯度・経度・高度）
 - バックグラウンドでの位置情報取得を含む
@@ -52,11 +54,11 @@ Halu Studio（以下「当方」）は、本アプリ「TravelLogger」（以下
 
 ### 3.1 Google AdMob
 - 広告配信のために使用します
-- Google AdMobのプライバシーポリシー：https://policies.google.com/privacy
+- Google AdMobのプライバシーポリシー：[https://policies.google.com/privacy](https://policies.google.com/privacy)
 
 これらのサービスは、独自のプライバシーポリシーに基づいて情報を取得・利用します。詳細は各サービスのプライバシーポリシーをご確認ください。
 
-**上記以外の第三者への情報提供は一切行いません。**
+上記以外の第三者への情報提供は一切行いません。
 
 ## 4. データの管理
 
@@ -85,5 +87,5 @@ Pro版を購入した場合、広告が非表示になります。それ以外�
 
 本プライバシーポリシーに関するお問い合わせは、以下の連絡先までお願いいたします。
 
-**メールアドレス：** halustudio09@gmail.com
-**開発元：** Halu Studio
+- **メールアドレス：** halustudio09@gmail.com
+- **開発元：** Halu Studio
