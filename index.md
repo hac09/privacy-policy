@@ -5,3 +5,4 @@
 ## アプリ一覧
 - [GPSロガー（TravelLogger）](./TravelLogger/)
 - [割勘アプリ（Divvy）](./divvy/)
+
