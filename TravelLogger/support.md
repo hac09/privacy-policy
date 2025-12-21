@@ -1,43 +1,56 @@
 ---
 ---
-# TravelLogger サポートページ
+# TravelLogger サポートページ / Support
 
+Thank you for using TravelLogger.
 TravelLoggerをご利用いただきありがとうございます。
 
-## アプリについて
+## アプリについて / About
 
-TravelLoggerは、GPS位置情報を使用して移動ルートを自動的に記録する旅行ログアプリです。
+**日本語**: TravelLoggerは、GPS位置情報を使用して移動ルートを自動的に記録する旅行ログアプリです。
 
+**English**: TravelLogger is a travel logging app that automatically records your movement routes using GPS location data.
 
+## 主な機能 / Main Features
 
-## 主な機能
+- GPS位置情報による自動記録 / Automatic recording with GPS location
+- リアルタイム地図表示 / Real-time map display
+- 移動距離・時間・速度の計算 / Calculate distance, time, and speed
+- 標高データの記録 / Record altitude data
+- GPX/CSV/PDFエクスポート / GPX/CSV/PDF export
 
-- GPS位置情報による自動記録
-- リアルタイム地図表示
-- 移動距離・時間・速度の計算
-- 標高データの記録
-- GPX/CSV/PDFエクスポート
+## よくある質問 / FAQ
 
-## よくある質問
+### Q: 記録が開始されません / Recording doesn't start
+**日本語**: 位置情報の権限を「常に許可」に設定してください。設定アプリ → TravelLogger → 位置情報 → 「常に許可」
 
-### Q: 記録が開始されません
-A: 位置情報の権限を「常に許可」に設定してください。設定アプリ → TravelLogger → 位置情報 → 「常に許可」
+**English**: Please set location permission to "Always Allow". Settings → TravelLogger → Location → "Always Allow"
 
-### Q: バッテリー消費が気になります
-A: 記録を使用しない時は必ず停止してください。バックグラウンドでの位置情報取得はバッテリーを消費します。
+### Q: バッテリー消費が気になります / Battery consumption concerns
+**日本語**: 記録を使用しない時は必ず停止してください。バックグラウンドでの位置情報取得はバッテリーを消費します。
 
-### Q: 記録時間に制限はありますか？
-A: 無料版は6時間の制限があります。リワード広告を見ることで3時間延長できます。Pro版では無制限です。
+**English**: Please stop recording when not in use. Background location tracking consumes battery power.
 
-### Q: データはどこに保存されますか？
-A: すべてのデータはデバイス内に保存され、外部に送信されることはありません。
+### Q: 記録時間に制限はありますか？ / Is there a recording time limit?
+**日本語**: 無料版は6時間の制限があります。リワード広告を見ることで3時間延長できます。Pro版では無制限です。
 
-### Q: GPXファイルをエクスポートできません
-A: Pro版の機能です。Pro版を購入するか、広告削除プランを購入してください。
+**English**: The free version has a 6-hour limit. You can extend it by 3 hours by watching rewarded ads. The Pro version has no limit.
 
-## お問い合わせ
+### Q: データはどこに保存されますか？ / Where is data stored?
+**日本語**: すべてのデータはデバイス内に保存され、外部に送信されることはありません。
 
-ご質問やバグ報告は、以下のメールアドレスまでお願いします：
+**English**: All data is stored on your device and is never transmitted externally.
+
+### Q: GPXファイルをエクスポートできません / Cannot export GPX files
+**日本語**: Pro版の機能です。Pro版を購入してください。
+
+**English**: This is a Pro version feature. Please purchase the Pro version.
+
+## お問い合わせ / Contact
+
+**日本語**: ご質問やバグ報告は、以下のメールアドレスまでお願いします：
+
+**English**: For questions or bug reports, please contact:
 
 📧 halustudio09@gmail.com
 
@@ -67,10 +80,13 @@ This app provides features to record and save data such as GPS location and phot
 - **Location Accuracy**: GPS location accuracy may vary depending on environmental factors such as weather conditions, buildings, and tunnels.
 - **Battery Consumption**: Background location tracking consumes battery power. Please be aware when recording for extended periods.
 
-## プライバシーポリシー
+## プライバシーポリシー / Privacy Policy
 
-プライバシーポリシーは以下のページをご確認ください：
-[プライバシーポリシー](https://hac09.github.io/privacy-policy/TravelLogger/)
+**日本語**: プライバシーポリシーは以下のページをご確認ください：
+
+**English**: Please refer to our Privacy Policy:
+
+[プライバシーポリシー / Privacy Policy](https://hac09.github.io/privacy-policy/TravelLogger/)
 
 ---
 
