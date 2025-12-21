@@ -10,7 +10,7 @@ layout: default
 <a name="english"></a>
 ## Privacy Policy - Divvy
 
-**Effective Date:** December 21, 2024
+**Effective Date:** December 21, 2025
 
 ### 1. Basic Policy
 
@@ -118,7 +118,7 @@ If you have any questions about this Privacy Policy, please contact us at:
 <a name="japanese"></a>
 ## プライバシーポリシー - 割勘マスター
 
-**施行日:** 2024年12月21日
+**施行日:** 2025年12月21日
 
 ### 1. 基本方針
 
@@ -223,6 +223,6 @@ Halu Studio（以下「当方」）は、本アプリ「割勘マスター」（
 
 ---
 
-Last Updated / 最終更新日: December 21, 2024
+Last Updated / 最終更新日: December 21, 2025
 
 Developer / 開発: Halu Studio
