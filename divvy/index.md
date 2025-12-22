@@ -113,6 +113,8 @@ If you have any questions about this Privacy Policy, please contact us at:
 
 **Email:** halustudio09@gmail.com
 
+**Support Page:** Please also visit our [support page](./support.html)
+
 ---
 
 <a name="japanese"></a>
@@ -220,6 +222,8 @@ Halu Studio（以下「当方」）は、本アプリ「割勘マスター」（
 本プライバシーポリシーに関するご質問は、以下までお問い合わせください：
 
 **メールアドレス：** halustudio09@gmail.com
+
+**サポートページ：** [こちら](./support.html)もご覧ください
 
 ---
 
