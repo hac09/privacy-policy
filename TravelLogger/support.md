@@ -70,9 +70,9 @@
 
 ## プライバシーポリシー / Privacy Policy
 
-**日本語**: プライバシーポリシーは[こちら](https://hac09.github.io/privacy-policy/TravelLogger/)をご覧ください。
+**日本語**: プライバシーポリシーは[こちら](https://hac09.github.io/halu-studio/TravelLogger/)をご覧ください。
 
-**English**: Please see our [Privacy Policy](https://hac09.github.io/privacy-policy/TravelLogger/) here.
+**English**: Please see our [Privacy Policy](https://hac09.github.io/halu-studio/TravelLogger/) here.
 
 ## お問い合わせ / Contact
 

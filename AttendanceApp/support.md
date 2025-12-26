@@ -13,7 +13,7 @@ Thank you for using "出退勤記録" (Attendance Tracker).
 
 "出退勤記録" is a simple attendance tracking app that records clock-in/out times and manages working hours.
 
-**サポートページ / Support Page:** [https://hac09.github.io/privacy-policy/AttendanceApp/support](https://hac09.github.io/privacy-policy/AttendanceApp/support)
+**サポートページ / Support Page:** [https://hac09.github.io/halu-studio/AttendanceApp/support](https://hac09.github.io/halu-studio/AttendanceApp/support)
 
 ## 主な機能 / Key Features
 
@@ -165,4 +165,4 @@ For questions or bug reports, please contact:
 
 Please see our privacy policy:
 
-[プライバシーポリシー / Privacy Policy](https://hac09.github.io/privacy-policy/AttendanceApp/)
+[プライバシーポリシー / Privacy Policy](https://hac09.github.io/halu-studio/AttendanceApp/)
