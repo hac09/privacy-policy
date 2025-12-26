@@ -2,8 +2,6 @@
 layout: default
 ---
 
-# Halu Studio
-
 モバイルアプリケーションの開発・提供を行っています。
 
 ## アプリ一覧
