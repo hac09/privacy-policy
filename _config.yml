@@ -1,3 +1,5 @@
 title: Halu Studio
 description: Privacy Policy and Support
 theme: jekyll-theme-cayman
+include:
+  - app-ads.txt
