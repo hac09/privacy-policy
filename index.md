@@ -28,7 +28,3 @@ GPS位置情報で移動ルートを自動記録する旅行ログアプリ
 ご質問・ご要望は以下までお願いします：
 
 📧 **halustudio09@gmail.com**
-
----
-
-© 2026 Halu Studio. All rights reserved.
