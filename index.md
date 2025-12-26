@@ -31,4 +31,4 @@ GPS位置情報で移動ルートを自動記録する旅行ログアプリ
 
 ---
 
-© 2025 Halu Studio. All rights reserved.
+© 2026 Halu Studio. All rights reserved.
