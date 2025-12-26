@@ -192,7 +192,3 @@ layout: default
 **日本語**: サポートページは[こちら](https://hac09.github.io/privacy-policy/TravelLogger/support)をご覧ください。
 
 **English**: Please see our [Support Page](https://hac09.github.io/privacy-policy/TravelLogger/support) here.
-
----
-
-© 2026 Halu Studio. All rights reserved.

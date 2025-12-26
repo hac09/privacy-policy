@@ -107,7 +107,3 @@ This app provides features to record and save data such as GPS location and phot
 - **Backup Recommendation**: We strongly recommend backing up important data regularly. Please use the GPX/CSV export feature.
 - **Location Accuracy**: GPS location accuracy may vary depending on environmental factors such as weather conditions, buildings, and tunnels.
 - **Battery Consumption**: Background location tracking consumes battery power. Please be aware when recording for extended periods.
-
----
-
-© 2026 Halu Studio. All rights reserved.

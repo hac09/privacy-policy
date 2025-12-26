@@ -219,7 +219,3 @@ For inquiries regarding this Privacy Policy, please contact:
 
 - **メールアドレス / Email：** halustudio09@gmail.com
 - **開発元 / Developer：** Halu Studio
-
----
-
-© 2026 Halu Studio. All rights reserved.

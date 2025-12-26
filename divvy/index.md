@@ -187,5 +187,3 @@ If you have any questions about this Privacy Policy, please contact us at:
 ---
 
 **開発 / Developer:** Halu Studio
-
-© 2026 Halu Studio. All rights reserved.

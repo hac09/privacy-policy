@@ -166,7 +166,3 @@ For questions or bug reports, please contact:
 Please see our privacy policy:
 
 [プライバシーポリシー / Privacy Policy](https://hac09.github.io/privacy-policy/AttendanceApp/)
-
----
-
-© 2026 Halu Studio. All rights reserved.
